@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobbylinux
-- 👀 I’m interested in Linux, Web, Embedded
+- 👀 I’m interested in Linux, Python, Web, Embedded
 - 🌱 I’m currently learning Web technology including json/GraphQL/php/MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
